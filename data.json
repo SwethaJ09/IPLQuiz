@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "1",
+        "question": "Which team won the inaugural season of IPL in 2008?",
+        "options": ["Chennai Super Kings", "Mumbai Indians", "Kolkata Knight Riders", "Rajasthan Royals"],
+        "correctAnswer": "3"
+    },
+    {
+        "_id": "2",
+        "question": "Who is the highest run-scorer in the history of IPL?",
+        "options": ["Virat Kohli", "Suresh Raina", "Rohit Sharma", "David Warner"],
+        "correctAnswer": "1"
+    },
+    {
+        "_id": "3",
+        "question": "Which player has taken the most wickets in a single IPL season?",
+        "options": ["Lasith Malinga", "Dwayne Bravo", "Sunil Narine", "Bhuvneshwar Kumar"],
+        "correctAnswer": "0"
+    },
+    {
+        "_id": "4",
+        "question": "Who holds the record for the fastest century in IPL?",
+        "options": ["Chris Gayle", "AB de Villiers", "David Warner", "KL Rahul"],
+        "correctAnswer": "0"
+    },
+    {
+        "_id": "5",
+        "question": "Which team has won the most IPL titles?",
+        "options": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Rajasthan Royals"],
+        "correctAnswer": "0"
+    },
+    {
+        "_id": "6",
+        "question": "Who is the only player to score 4 centuries in IPL history?",
+        "options": ["Virat Kohli", "Chris Gayle", "AB de Villiers", "David Warner"],
+        "correctAnswer": "1"
+    },
+    {
+        "_id": "7",
+        "question": "Which city has hosted the most IPL finals?",
+        "options": ["Mumbai", "Kolkata", "Chennai", "Bangalore"],
+        "correctAnswer": "2"
+    },
+    {
+        "_id": "8",
+        "question": "Who is the youngest player to debut in IPL?",
+        "options": ["Sandeep Lamichhane", "Riyan Parag", "Prayas Barman", "Washington Sundar"],
+        "correctAnswer": "0"
+    },
+    {
+        "_id": "9",
+        "question": "Which team holds the record for the highest successful run chase in IPL?",
+        "options": ["Rajasthan Royals", "Royal Challengers Bangalore", "Kolkata Knight Riders", "Chennai Super Kings"],
+        "correctAnswer": "1"
+    },
+    {
+        "_id": "10",
+        "question": "Who is the only player to score a century and take a hat-trick in the same IPL season?",
+        "options": ["Shane Watson", "Yuvraj Singh", "Andrew Symonds", "Harbhajan Singh"],
+        "correctAnswer": "1"
+    }
+]
